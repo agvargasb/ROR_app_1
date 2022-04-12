@@ -4,4 +4,7 @@ class StaticPagesController < ApplicationController
 
   def tech
   end
+
+  def index
+  end
 end
