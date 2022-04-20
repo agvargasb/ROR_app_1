@@ -1,24 +1,12 @@
-# README
+# Ruby on Rails App #1
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## This app shows information about Job and Talent, personal views about Ruby and Ruby on Rails, and a "About me" section.
 
-Things you may want to cover:
+I'm updating the app. It will share a lot of more information, with some css.
 
-* Ruby version
+### To Do list
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Put some basic css.
+* Investigate and write in detail about the kpi's in JT.
+* Add some pictures.
+* Write about my hobbies.
